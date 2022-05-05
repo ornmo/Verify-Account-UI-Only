@@ -1,7 +1,11 @@
-This project is made of background images that expand when clicked on. 
+This project is the UI (only) for an account verify when you have been sent a code.
+As the USer inputs the code the cursor automatically moves to the next setion.
+User ccan also use backspace and the last digit input will be deleted
 
 It uses Flexbox, CSS transitions and JavaScript
 
 This could be converted to be used in (for example) the following ways
 
-- 
+- Validation of an account creation (following sending of code)
+
+NOTE: This is only the UI, it is not connected to a DB
